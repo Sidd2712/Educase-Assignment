@@ -23,7 +23,7 @@ A **mobile-first** frontend web application built as part of an assignment for *
 - **React 19**  
 - **TypeScript**  
 - **Tailwind CSS**  
-- **Heroicons**  
+- **Hero Icons**  
 
 ---
 
